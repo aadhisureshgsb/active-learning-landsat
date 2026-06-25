@@ -101,6 +101,4 @@ pytest -q
 
 > Srinivasan, A. (1993). *Statlog (Landsat Satellite)*. UCI Machine Learning Repository. https://doi.org/10.24432/C55887 — CC BY 4.0
 
-## License
 
-MIT — see [LICENSE](LICENSE).
